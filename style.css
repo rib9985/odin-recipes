@@ -1,0 +1,28 @@
+.header {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.header.subtitle {
+    background-color: darkblue;
+    color: yellow;
+    font-size: 20px;
+    font-style: italic;
+}
+
+ul li {
+    font-size: 20px;
+text-align: center;
+list-style-type: circle;
+list-style-position: inside;
+}
+
+h3, h4, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;}
+
+     
+    
